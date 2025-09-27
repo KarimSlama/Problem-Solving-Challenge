@@ -26,7 +26,7 @@ The goal is to sharpen my **problem-solving skills**, master **time & space comp
 |----|-------------------|-----------------------------------------|-----------------|-----------------|
 | 1  | Two Sum           | [Code](./two_sums.dart)                  | O(n)            | O(n)            |
 | 2  | Valid Parentheses | [Code](./valid_parentheses.dart)        | O(n)            | O(n)            |
-| 3  | Roman To Integer | [Code](./roman_to_integer.dart)        | O(n)            | O(1)            |
+| 3  | Roman To Integer | [Code](./roman_to_int.dart)        | O(n)            | O(1)            |
 
 🛠 Tech Stack
 

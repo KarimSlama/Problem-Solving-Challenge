@@ -17,7 +17,7 @@ The goal is to sharpen my **problem-solving skills**, master **time & space comp
 ---
 
 ## 📊 Progress
-- ✅ **Solved:** 2 problems  
+- ✅ **Solved:** 3 problems  
 - 🎯 **Target:** 100 problems  
 
 ## 🧩 Solved Problems
@@ -26,7 +26,7 @@ The goal is to sharpen my **problem-solving skills**, master **time & space comp
 |----|-------------------|-----------------------------------------|-----------------|-----------------|
 | 1  | Two Sum           | [Code](./two_sums.dart)                  | O(n)            | O(n)            |
 | 2  | Valid Parentheses | [Code](./valid_parentheses.dart)        | O(n)            | O(n)            |
-
+| 3  | Roman To Integer | [Code](./roman_to_integer.dart)        | O(n)            | O(1)            |
 
 🛠 Tech Stack
 
@@ -51,5 +51,5 @@ By solving 100 problems, I aim to:
 
 ![Progress](https://img.shields.io/badge/Progress-2%2F100-blue?style=for-the-badge)
 
-- ✅ **Solved:** 2 problems  
+- ✅ **Solved:** 3 problems  
 - 🎯 **Target:** 100 problems  
